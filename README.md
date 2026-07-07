@@ -1,5 +1,5 @@
 # User-Centered XAI for Fake Review Detection and Sentiment Analysis
-![Dashboard_Preview](assets/dashboard-preview.png)
+![Dashboard_Preview](assets/dashboard-image.jpg)
 
 ## Summary
 This project applies Explainable AI (XAI) techniques to detect fake reviews and analyze sentiment using the Yelp Open Dataset. Traditional machine learning models are combined with LIME and SHAP explainability methods, then packaged into an interactive Streamlit dashboard so that non-technical users can understand why a review is flagged as fake or genuine.
